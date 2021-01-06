@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/confirm_style_6_003.wav-551a86ff96f86ae71b50b470fc6cfbc0.sample"
+
+[deps]
+
+source_file="res://Wav/Confirm_tones/style6/confirm_style_6_003.wav"
+dest_files=[ "res://.import/confirm_style_6_003.wav-551a86ff96f86ae71b50b470fc6cfbc0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
